@@ -1,0 +1,7 @@
+{
+  "name": "VirusChecker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
